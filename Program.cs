@@ -9,6 +9,8 @@ namespace TimeTest
 {
     class Program
     {
+        // added a comment after first commit
+
         static void Main(string[] args)
         {
             string fromTime = "11:58";
