@@ -10,6 +10,8 @@ namespace TimeTest
 {
     class MyTime
     {
+        // added line to time.cs on branch1
+
         #region Compare Time
         private static bool IsFromLessThanTo(TimeSpan from, TimeSpan to)
         {
