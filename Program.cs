@@ -11,6 +11,8 @@ namespace TimeTest
     {
         // added a comment after first commit
 
+        // added comment after branch2 created
+
         static void Main(string[] args)
         {
             string fromTime = "11:58";
