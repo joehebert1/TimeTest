@@ -12,6 +12,8 @@ namespace TimeTest
     {
         // added line to time.cs on branch1
 
+        // added line after changing from private to public after branch 2 merge.
+
         #region Compare Time
         private static bool IsFromLessThanTo(TimeSpan from, TimeSpan to)
         {
